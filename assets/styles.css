@@ -1,21 +1,17 @@
-.body{
-    margin: 0;
-    color: whitesmoke;
+body{
+
+    background-color: #E4ECEC;
 }
 .perfil{
     height: -150px;
     width: -150px;
 }
-  
-.cabecera{
-    display: flex;
-    background-image: url("/assets/img/fondo.jpg");
-    align-items: center;
-    justify-content: center;
-    height: 500px;
+  header{
+    background-image: url("../assets/img/fondo.jpg");
     background-size: cover;
     background-position: center;
-}
+  }
+
 .contenido{
     display: flex;
    
